@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1400px) {
+  .product-1 {
+    width: 310px;
+  }
+
+  .products__main--img {
+    width: 230px;
+  }
+
+  .product-1 h2 {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  .product-1 h3 {
+    font-size: 17px;
+    color: white;
+    text-transform: capitalize;
+  }
+
+  .coffee__machine {
+    background-color: #161513;
+    width: 80%;
+  }
+
+  
+
+}
