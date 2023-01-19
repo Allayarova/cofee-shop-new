@@ -140,7 +140,7 @@ span {
   font-family: popins;
 }
 
-.menu p {
+.menuu__p {
   color: #c99e71;
   margin-bottom: 12px;
   font-size: 17px;
@@ -164,17 +164,17 @@ span {
   padding-right: 20px;
 }
 
-.left {
+.left , .right {
   display: flex;
   flex-direction: column;
   width: 470px;
 }
 
-.right {
+/* .right {
   display: flex;
   flex-direction: column;
   width: 470px;
-}
+} */
 
 .menu__1 img {
   width: 80px;
@@ -195,6 +195,7 @@ span {
 .menu__1 p {
   margin-top: 12px;
   margin-left: 160px;
+  display: inline;
 }
 
 .customers {

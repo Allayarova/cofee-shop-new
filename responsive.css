@@ -23,7 +23,182 @@
     background-color: #161513;
     width: 80%;
   }
+}
 
-  
+@media only screen and (max-width: 1200px) {
+  .product-1 {
+    width: 280px;
+  }
 
+  .popular__product {
+    margin-left: -30px;
+  }
+
+  .products__main--img {
+    width: 220px;
+  }
+
+  .product-1 h2 {
+    font-size: 18px;
+  }
+
+  .product-1 h3 {
+    font-size: 16px;
+  }
+
+  .btn__view {
+    margin-left: 440px;
+  }
+
+  .coffee__info {
+    width: 100%;
+  }
+
+  .coffee__machine {
+    width: 89%;
+    margin-left: 70px;
+  }
+
+  .coffee__info {
+    width: 70%;
+  }
+
+  .coffee__img img {
+    margin-left: 70px;
+    margin-top: -8px;
+  }
+
+  .menu__1 {
+    width: 100%;
+  }
+
+  .menu {
+    margin-left: 70px;
+  }
+
+  .menuu__p {
+    margin-left: 80px;
+  }
+
+  .menu h2 {
+    margin-left: 90px;
+  }
+
+  .left,
+  .right {
+    width: 430px;
+  }
+
+  .both {
+    gap: 20px;
+  }
+
+  .menu__1 h3 {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .menu__1 p {
+    margin-top: 12px;
+    margin-left: 100px;
+    display: inline;
+  }
+
+  .customers__p {
+    margin-left: 50px;
+  }
+
+  .customers__h3 {
+    margin-left: 50px;
+  }
+
+  .customer__box {
+    width: 440px;
+  }
+
+  .customers {
+    margin-left: 65px;
+  }
+
+  .customer__box p {
+    font-size: 13px;
+  }
+
+  .customer__box h3 {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .product-1 h2 {
+    font-size: 17px;
+    font-weight: 400;
+  }
+
+  .product-1 h3 {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .products {
+    margin-left: 60px;
+  }
+
+  .popular__product p {
+    margin-left: 240px;
+    text-align: center;
+  }
+
+  .popular__product h1 {
+    margin-left: 230px;
+    text-align: center;
+  }
+
+  .btn__view {
+    margin-left: 395px;
+  }
+
+  .coffee__machine {
+    width: 860px;
+    margin-left: 40px;
+  }
+
+  .menu {
+    margin-left: 40px;
+  }
+
+  .menuu__p {
+    margin-left: 300px;
+  }
+
+  .menu h2 {
+    margin-left: 320px;
+  }
+
+  .customers {
+    margin-top: 70px;
+    width: 80%;
+  }
+
+  .customers__p {
+    margin-left: 180px;
+  }
+
+  .customers__p~h3{
+    margin-left: 180px;
+  }
+
+   
+  .customer__container {
+    margin-left: -37px;
+  }
+
+  .customer__box {
+    width: 430px;
+  }
+
+   .left,
+  .right {
+    width: 420px;
+  }
 }
